@@ -1,2 +1,2 @@
 # Big-Two-Java
-Implementation of Big Two Card Game in Java
+Implementation of Big Two card game in Java
